@@ -28,9 +28,7 @@ In order to compile this test you will need a recent version of the
 MongoDB C Driver
 
 
-apt-get install -y git autoconf libtool
-
-
+    apt-get install -y git autoconf libtool
     mkdir -p $HOME/mongoc 
     mkdir -p $HOME/git
     cd $HOME/git
